@@ -1,6 +1,8 @@
 # 如何解决 Codex 控制浏览器时的 nodeRepl.fetch request failed 报错
 
-本仓库分享 Windows 上的实际排障过程、修改方法与可直接复制给 AI 的提示词。配套中文视频已制作完成，上传中；下载链接将在发布后补充。
+本仓库分享 Windows 上的实际排障过程、修改方法与可直接复制给 AI 的提示词。配套视频与工程已发布：[下载视频和配套资料](https://github.com/clen1/codex-browser-fetch-fix/releases/tag/v1.0.0)。
+
+![教程封面](https://github.com/clen1/codex-browser-fetch-fix/releases/download/v1.0.0/cover.png)
 
 ## 适用范围
 
@@ -131,7 +133,11 @@ Copy-Item -LiteralPath $backup -Destination $entry -Force
 
 ## 九、配套视频
 
-8 分 29 秒、1080p 横屏、中文合成配音、逐句字幕、20 个章节及 Remotion 动画。画面是案例重现，不是实时录屏。视频和可编辑工程将在上传完成后添加下载入口。
+8 分 29 秒、1080p 横屏、中文合成配音、逐句字幕、20 个章节及 Remotion 动画。画面是案例重现，不是实时录屏。
+
+- [下载 1080p 视频](https://github.com/clen1/codex-browser-fetch-fix/releases/download/v1.0.0/codex-browser-fix-tutorial-1080p.mp4)
+- [下载 Remotion 可编辑工程](https://github.com/clen1/codex-browser-fetch-fix/releases/download/v1.0.0/remotion-editable-project.zip)
+- [中文字幕](https://github.com/clen1/codex-browser-fetch-fix/releases/download/v1.0.0/subtitles.zh-CN.srt) · [章节时间轴](https://github.com/clen1/codex-browser-fetch-fix/releases/download/v1.0.0/chapters.txt)
 
 ## 参考资料
 
